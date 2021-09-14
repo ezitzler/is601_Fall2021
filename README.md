@@ -1,1 +1,2 @@
-# is601_Fall2021
+# welcome to is601
+## Intro to Git source
